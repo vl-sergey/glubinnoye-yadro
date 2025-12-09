@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "me.jpg"
+                "file": "assets/images/me.jpg"
               },
               "icon": "lucide-image",
               "title": "me"
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "me.jpg",
+                "file": "assets/images/me.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "me.jpg",
+                "file": "assets/images/me.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "me.jpg",
+                "file": "assets/images/me.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f49c1cd177e7d1dc",
+  "active": "6fbfce742b0df433",
   "lastOpenFiles": [
-    "assets/images/me.jpg",
     "me.jpg",
+    "assets/images/me.jpg",
     "_posts/2025-12-09-Privet.md",
     "assets/images/me (2).jpg",
     "assets/images/я.jpg",
