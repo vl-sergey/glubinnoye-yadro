@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/images/me.jpg"
+                "file": "me.jpg"
               },
               "icon": "lucide-image",
               "title": "me"
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "me.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "me.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "me.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,16 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fbfce742b0df433",
+  "active": "f49c1cd177e7d1dc",
   "lastOpenFiles": [
-    "_posts/2025-12-09-Privet.md",
     "assets/images/me.jpg",
+    "me.jpg",
+    "_posts/2025-12-09-Privet.md",
     "assets/images/me (2).jpg",
     "assets/images/я.jpg",
     "assets/images/bio-photo.jpg",
     "assets/images/me.jpg.md",
     "_posts/2010-01-07-post-modified.md",
-    "я.jpg",
     "_pages/404.md"
   ]
 }
