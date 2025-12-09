@@ -11,14 +11,12 @@
             "id": "6fbfce742b0df433",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "assets/images/me.jpg.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/me.jpg"
               },
-              "icon": "lucide-file",
-              "title": "me.jpg"
+              "icon": "lucide-image",
+              "title": "me"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/me.jpg.md",
+                "file": "assets/images/me.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для me.jpg"
+              "title": "Обратные ссылки для me"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/me.jpg.md",
+                "file": "assets/images/me.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из me.jpg"
+              "title": "Исходящие ссылки из me"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/me.jpg.md",
+                "file": "assets/images/me.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура me.jpg"
+              "title": "Структура me"
             }
           },
           {
@@ -196,11 +194,14 @@
   },
   "active": "6fbfce742b0df433",
   "lastOpenFiles": [
-    "_posts/2010-01-07-post-modified.md",
-    "assets/images/me.jpg.md",
-    "я.jpg",
-    "assets/images/bio-photo.jpg",
     "_posts/2025-12-09-Privet.md",
+    "assets/images/me.jpg",
+    "assets/images/me (2).jpg",
+    "assets/images/я.jpg",
+    "assets/images/bio-photo.jpg",
+    "assets/images/me.jpg.md",
+    "_posts/2010-01-07-post-modified.md",
+    "я.jpg",
     "_pages/404.md"
   ]
 }
