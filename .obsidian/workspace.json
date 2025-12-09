@@ -11,12 +11,14 @@
             "id": "6fbfce742b0df433",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/me.jpg"
+                "file": "_pages/about.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "me"
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для me"
+              "title": "Обратные ссылки для about"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из me"
+              "title": "Исходящие ссылки из about"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/me.jpg",
+                "file": "_pages/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура me"
+              "title": "Структура about"
             }
           },
           {
@@ -194,8 +196,9 @@
   },
   "active": "6fbfce742b0df433",
   "lastOpenFiles": [
-    "me.jpg",
+    "assets/images/Трещина.png",
     "assets/images/me.jpg",
+    "me.jpg",
     "_posts/2025-12-09-Privet.md",
     "assets/images/me (2).jpg",
     "assets/images/я.jpg",
