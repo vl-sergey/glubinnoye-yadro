@@ -27,7 +27,7 @@ title: "Обо мне"
 
 ---
 
-![Трещина](/assets/images/Трещина.png)
+![Трещина](/glubinnoye-yadro/assets/images/Трещина.png)
 
 
 # С чем я работаю
