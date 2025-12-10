@@ -66,6 +66,9 @@ author:
     - label: "VK"
       icon: "fab fa-fw fa-vk"
       url: "https://vk.com/vlasovsg"
+    - label: "Telegram channel"
+      icon: "fab fa-fw fa-Telegram channel"
+      url: "https://t.me/glubinnaya_struktura"
 
 
 footer:
