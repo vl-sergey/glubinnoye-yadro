@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_posts/2025-12-09-narusheniya yadra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2025-12-09-narusheniya yadra"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "6fbfce742b0df433",
   "lastOpenFiles": [
-    "_posts/2025-12-09-Privet.md",
     "_pages/about.md",
+    "_posts/2025-12-09-narusheniya yadra.md",
     "assets/images/Трещина.png",
     "assets/images/me.jpg",
     "me.jpg",
