@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-vk"
       url: "https://vk.com/vlasovsg"
     - label: "Telegram channel"
-      icon: "fab fa-fw fa-Telegram channel"
+      icon: "fab fa-fw fa-telegram"
       url: "https://t.me/glubinnaya_struktura"
 
 
@@ -80,7 +80,7 @@ footer:
       icon: "fab fa-fw fa-vk"
       url: "https://vk.com/vlasovsg"
     - label: "Telegram channel"
-      icon: "fab fa-fw fa-Telegram channel"
+      icon: "fab fa-fw fa-telegram"
       url: "https://t.me/glubinnaya_struktura"
 
 defaults:
