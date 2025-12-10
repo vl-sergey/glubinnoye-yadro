@@ -185,21 +185,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "6fbfce742b0df433",
   "lastOpenFiles": [
+    "_posts/2025-12-09-Privet.md",
+    "_pages/about.md",
     "assets/images/Трещина.png",
     "assets/images/me.jpg",
     "me.jpg",
-    "_posts/2025-12-09-Privet.md",
     "assets/images/me (2).jpg",
     "assets/images/я.jpg",
     "assets/images/bio-photo.jpg",

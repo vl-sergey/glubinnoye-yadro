@@ -1,1 +1,7 @@
-{}
+{
+  "readableLineLength": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "useMarkdownLinks": true
+}
